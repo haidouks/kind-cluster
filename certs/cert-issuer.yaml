@@ -5,3 +5,4 @@ metadata:
   name: test-selfsigned
 spec:
   selfSigned: {}
+
